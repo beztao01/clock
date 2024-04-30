@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+    display: grid;
+    place-items: center;
+    overflow: hidden;
+    background: #111111;
+}
+
+p {
+    display: flex;
+    align-items: center;
+    color: white;
+    font-size: 4rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#watch {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 600px;
+    height: 600px;
+    /*border: 2px solid cyan;*/
+    color: whitesmoke;
+    border-radius: 50%;
+    font-family: monospace;
+    font-family: "Black Ops One", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 25rem;
+    
+
+}
