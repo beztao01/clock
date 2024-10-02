@@ -5,8 +5,8 @@ body {
         display: grid;
         place-items: center;
         overflow: hidden;
-       /* background-color: 5a5a5a;*/
-        background: #111111;
+        background-color: #5a5a5a;
+        /*background: #111111;*/
     }
 
 p {
