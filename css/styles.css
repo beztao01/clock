@@ -1,11 +1,12 @@
 body {
+    background-color: black;
         margin: 30;
         width: 100vw;
         height: 100vh;
         display: grid;
         place-items: center;
         overflow: hidden;
-        background-color: #5a5a5a;
+        
         /*background: #111111;*/
     }
 
