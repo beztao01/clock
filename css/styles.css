@@ -20,6 +20,10 @@ p {
         text-align: center;
     }
 
+h3{
+        text-align: center;
+    }
+    
 #watch {
         background-color: black;
         display: flex;
